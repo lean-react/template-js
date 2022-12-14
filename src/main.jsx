@@ -7,7 +7,7 @@ import App from './App';
 import './main.css';
 
 // Create render container
-const root = createRoot(document.getElementById('root') as HTMLElement);
+const root = createRoot(document.getElementById('root'));
 
 // Render app
 root.render(
