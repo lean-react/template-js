@@ -1,6 +1,6 @@
-# Lean React with TypeScript Template
+# Lean React Template
 
-> Opinionated lean React boilerplate with TypeScript
+> Opinionated lean React boilerplate
 
 ## Editor Setup
 
